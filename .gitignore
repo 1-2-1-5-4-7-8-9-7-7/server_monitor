@@ -6,3 +6,12 @@
 #忽略系统缓存
 .DS_Store
 
+
+#忽略系统配置文件
+.bash_logout
+.bashrc
+.motd_shown
+.profile
+.viminfo
+snap/
+
